@@ -5,10 +5,13 @@
 [![Chrome Built-in AI](https://img.shields.io/badge/Chrome-Built--in%20AI-4285F4.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/ai/built-in)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code.brandonhubbard.com-brightgreen?logo=github)](https://code.brandonhubbard.com/astro-dev-copy-optimizer/)
 
 An Astro Dev Toolbar app that empowers developers and designers to click any text element on their page during development and instantly polish, rewrite, and optimize copy using local, on-device Chrome Built-in AI (`window.ai.rewriter`, `window.ai.writer`, and `window.ai.languageModel`).
 
 Includes 1-click copy-to-clipboard, in-situ live preview replacement, streaming output cards, and preset copywriting tone profiles.
+
+> 🎮 **Live Interactive Visualizer & Demo:** [astro-dev-copy-optimizer on code.brandonhubbard.com](https://code.brandonhubbard.com/astro-dev-copy-optimizer/)
 
 ---
 
